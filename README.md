@@ -1,5 +1,6 @@
 # Veterinary-Calculators
-Excel files to help with common calculations in veterinary practice
+Excel files to help with common calculations in veterinary practice.
+Please ensure suggested doses and protocols are appropriate for the specific patient if used clinically.
 
 ---
 
